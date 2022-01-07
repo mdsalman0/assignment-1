@@ -73,6 +73,7 @@ h1.orange {
 
 .tex p {
     width: 400px;
+    padding-top: 10px;
 }
 
 .tex a {
@@ -94,6 +95,7 @@ h1.orange {
 }
 .tyu {
     border-left: 3px solid red;
+    height: 93px;
 }
 .bloge1 {
     width: 300px;
@@ -279,3 +281,36 @@ section.Know.our.Global.Community {
 	color:red;
 	text-decoration:none;
 }
+section.hard.work {
+}
+h1.name1 {
+    float: left;
+    width: 1348px;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+    font-style: italic;
+    color: white;
+}
+p.name2 {
+    float: left;
+    width: 1348px;
+    color: #d3cece;
+    text-align: center;
+}
+.rtyui {
+    background: black;
+    overflow: hidden;
+    margin-top: 50px;
+    float: left;
+}
+h1.name1 span {
+    color: #ff2020;
+}
+
+
+
+
+
+
+
