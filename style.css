@@ -224,4 +224,58 @@ section.Know.our.Global.Community {
 }
 
 
-
+#serveser{
+	background:#f5f6f6;
+}
+.sboxweapper {
+    overflow: hidden;
+    float: left;
+    margin-left: 110px;
+    background: #f5efef;
+    padding: 10px;
+}
+.singbox:hover{
+	background:#ff5200;
+	color:white;
+	
+}
+.singbox:hover i {
+	color:white;
+}
+.singbox:hover a {
+	color:white;
+}
+.sboxicon{
+	text-align: center;
+	padding: 30px 0px;
+	font-size:40px;
+	color:#ff5200;
+}
+.singbox {
+    width: 240px;
+    background: #ffdbdb;
+    padding: 10px;
+    float: left;
+    margin-right: 15px;
+    margin-left: 15px;
+    padding-left: 0px;
+}
+.sboxtitly {
+    text-align: center;
+    
+}
+.sboxides {
+    width: 231px;
+    text-align: center;
+    line-height: 27px;
+	padding: 30px 0px;
+}
+.sboxlink {
+    text-align: center;
+    padding-bottom:20px;
+	font-weight:500;
+}
+.sboxlink a{
+	color:red;
+	text-decoration:none;
+}
